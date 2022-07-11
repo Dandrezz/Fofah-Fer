@@ -1,0 +1,18 @@
+.section {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  color: #FFFFFF
+}
+
+.central-section {
+  text-align: center;
+  display:table-cell; 
+  vertical-align:middle
+}
+
+.central-section img{
+  border-radius: 1rem;
+}
